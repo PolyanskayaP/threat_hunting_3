@@ -27,11 +27,17 @@
 
 ### 1. Проверить доступность данных в Yandex Object Storage
 
-Для проверки нужно ввести адрес
-https://storage.yandexcloud.net/<Имя-Бакета>/<имя-файла>
-https://storage.yandexcloud.net/arrow-datasets/yaqry_dataset.pqt Больше
-информация об адресации:
-https://cloud.yandex.ru/ru/docs/storage/concepts/bucket#bucket-url
+Для проверки нужно ввести адрес:
+
+    https://storage.yandexcloud.net/<Имя-Бакета>/<имя-файла>
+
+В данном случае:
+
+    https://storage.yandexcloud.net/arrow-datasets/yaqry_dataset.pqt
+
+Больше информация об адресации:
+
+    https://cloud.yandex.ru/ru/docs/storage/concepts/bucket#bucket-url
 
 ![Storage Yandex Cloud](img/1.jpg)
 
