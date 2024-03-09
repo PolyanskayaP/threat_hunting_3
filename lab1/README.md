@@ -18,6 +18,7 @@
 1.  Ноутбук с ОС Windows 10
 2.  RStudio
 3.  Yandex Cloud
+4.  Yandex Query
 
 ## Задание
 
