@@ -28,9 +28,9 @@
 ### 1. Проверить доступность данных в Yandex Object Storage
 
 Для проверки нужно ввести адрес
-https://storage.yandexcloud.net/<Имя-Бакета>
-
-Информация об этом:
+https://storage.yandexcloud.net/<Имя-Бакета>/<имя-файла>
+https://storage.yandexcloud.net/arrow-datasets/yaqry_dataset.pqt Больше
+информация об адресации:
 https://cloud.yandex.ru/ru/docs/storage/concepts/bucket#bucket-url
 
 ![Storage Yandex Cloud](img/1.jpg)
@@ -75,9 +75,15 @@ https://cloud.yandex.ru/ru/docs/storage/concepts/bucket#bucket-url
 
 ### 1. Известно, что IP адреса внутренней сети начинаются с октетов, принадлежащих интервалу \[12-14\]. Определите количество хостов внутренней сети, представленных в датасете.
 
+![Storage Yandex Cloud](img/8.jpg)
+
 ### 2. Определите суммарный объем исходящего трафика
 
+![Storage Yandex Cloud](img/9.jpg)
+
 ### 3. Определите суммарный объем входящего трафика
+
+![Storage Yandex Cloud](img/10.jpg)
 
 ## Оценка результатов
 
