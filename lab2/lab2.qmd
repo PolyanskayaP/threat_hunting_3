@@ -44,9 +44,12 @@ editor_options:
 3. Выбрать в разделе “Файлы и сервисы” Yandex Query
 4. Настроить и проверить подключение
 
+![Storage Yandex Cloud](img/1.jpg)
+![Storage Yandex Cloud](img/2.jpg)
+
 ### 2. Создать из запроса YandexQuery датасет DataLens
 
-
+![Storage Yandex Cloud](img/3.jpg)
 
 ### 3. Делаем нужные графики и диаграммы
 
