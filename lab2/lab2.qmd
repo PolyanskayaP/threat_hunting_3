@@ -53,6 +53,17 @@ editor_options:
 
 ### 3. Делаем нужные графики и диаграммы
 
+Новое поле создаётся так:
+
+![Storage Yandex Cloud](img/4.jpg)
+
+```{}
+IF ([src] LIKE '12.%' OR [src] LIKE '13.%' OR [src] LIKE '14.%') AND ([dst] LIKE '12.%' OR [dst] LIKE '13.%' OR [dst] LIKE '14.%')
+    THEN 'внутренний'
+ELSE 
+    'внешний'
+END 
+```
 
 
 ### 4. Составляем дашборд
