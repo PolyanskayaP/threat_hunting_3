@@ -56,6 +56,10 @@ editor_options:
 Новое поле создаётся так:
 
 ![Storage Yandex Cloud](img/4.jpg)
+Пример создания поля на языке, подобном SQL.
+```{}
+https://cloud.yandex.ru/ru/docs/datalens/concepts/calculations/formula-syntax
+```
 
 ```{}
 IF ([src] LIKE '12.%' OR [src] LIKE '13.%' OR [src] LIKE '14.%') AND ([dst] LIKE '12.%' OR [dst] LIKE '13.%' OR [dst] LIKE '14.%')
@@ -64,6 +68,17 @@ ELSE
     'внешний'
 END 
 ```
+
+1. Представить в виде круговой диаграммы соотношение внешнего и внутреннего сетевого трафика. 
+
+![Storage Yandex Cloud](img/5.jpg)
+
+2. Представить в виде столбчатой диаграммы соотношение входящего и исходящего трафика из внутреннего сетвого сегмента. 
+
+![Storage Yandex Cloud](img/6.jpg)
+
+3. Построить график активности (линейная диаграмма) объема трафика во времени. 
+
 
 
 ### 4. Составляем дашборд
